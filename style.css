@@ -1,0 +1,38 @@
+.book {
+    cursor: pointer;
+}
+
+.sport hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+    background-color: aquamarine;
+}
+body {
+    background-color: cornsilk;
+    text-align: center;
+}
+#books {
+    text-align: center;
+}
+.div-quote {
+    text-align: center;
+    color: crimson;
+}
+.div-list {
+    color: crimson;
+}
